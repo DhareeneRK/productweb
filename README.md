@@ -708,6 +708,7 @@ style.css
 
 ```
 ## Output:
+
 ![OUTPUT](./home.png)
 ![OUTPUT](./product.png)
 ![OUTPUT](./people.png)
